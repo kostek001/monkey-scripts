@@ -26,5 +26,3 @@ observer.observe(document.body, {
   childList: true,
   subtree: true
 });
-
-console.log("AD BLOCK BLOCKER STARTED!!!");
