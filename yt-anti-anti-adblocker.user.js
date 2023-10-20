@@ -16,9 +16,10 @@ if (document.querySelector(selector)) {
 
 const observer = new MutationObserver(mutations => {
   if (document.querySelector(selector)) {
-    document.querySelector(selector).remove();
-    const player = document.querySelector("video.video-stream");
-    if (player.paused) player.play();
+    document.querySelector(selector).remove()
+    document.querySelector("video.video-stream").addEventListener("pause", function () {
+      this.play();
+    }, { once: true });
   }
 });
 
