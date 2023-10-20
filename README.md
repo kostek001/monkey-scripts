@@ -1,5 +1,6 @@
 # Violentmonkey Scripts
 
+## List of scripts
 1. **YouTube Anti Anti Adblocker**
    [Install](https://github.com/kostek001/monkey-scripts/raw/main/yt-anti-anti-adblocker.user.js)  
    Removes annoying popup when using ad-blocker on YouTube.
