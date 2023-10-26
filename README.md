@@ -1,6 +1,6 @@
 # Violentmonkey Scripts
 
-## FIRST INSTALL VIOLENTMONKEY EXTENSION
+**FIRST INSTALL VIOLENTMONKEY EXTENSION**
 
 ## List of scripts
 1. **YouTube Anti Anti Adblocker**
