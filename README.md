@@ -1,5 +1,7 @@
 # Violentmonkey Scripts
 
+## FIRST INSTALL VIOLENTMONKEY EXTENSION
+
 ## List of scripts
 1. **YouTube Anti Anti Adblocker**
    [Install](https://github.com/kostek001/monkey-scripts/raw/main/yt-anti-anti-adblocker.user.js)  
